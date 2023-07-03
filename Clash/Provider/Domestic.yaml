@@ -111,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,bdstatic.com
   - DOMAIN-SUFFIX,beatsbydre.com
   - DOMAIN-SUFFIX,broadcasthe.net
+  - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,caiyunapp.com
   - DOMAIN-SUFFIX,ccgslb.com
   - DOMAIN-SUFFIX,ccgslb.net
@@ -238,7 +239,6 @@ payload:
   - DOMAIN-SUFFIX,redacted.ch
   - DOMAIN-SUFFIX,rrmj.tv
   - DOMAIN-SUFFIX,ruguoapp.com
-  - DOMAIN-SUFFIX,sandai.net
   - DOMAIN-SUFFIX,sf-express.com
   - DOMAIN-SUFFIX,sinaapp.com
   - DOMAIN-SUFFIX,sinaimg.cn
