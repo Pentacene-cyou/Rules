@@ -1,4 +1,8 @@
 payload:
+  # > Google
+  - IP-CIDR,173.194.0.0/16,no-resolve
+  - IP-CIDR,74.125.0.0/16,no-resolve
+  - DOMAIN-KEYWORD,google
   # > Google FCM
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,alt2-mtalk.google.com
