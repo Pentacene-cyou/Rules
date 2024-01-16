@@ -197,6 +197,7 @@ payload:
   - DOMAIN-SUFFIX,feedburner.com
   - DOMAIN-SUFFIX,feedly.com
   - DOMAIN-SUFFIX,feedsportal.com
+  - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,fiftythree.com
   - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN-SUFFIX,flexibits.com
@@ -225,6 +226,8 @@ payload:
   - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,gitbook.com
+  - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,globalsign.com
   - DOMAIN-SUFFIX,gmocloud.com
   - DOMAIN-SUFFIX,gmodules.com
